@@ -1,5 +1,3 @@
-# Claude Skills by K Bros Web Design
-
 [Agent Skills](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) for Claude, built while designing websites at [K Bros Web Design](https://kbroswebdesign.com).
 
 | Skill | What it does |
