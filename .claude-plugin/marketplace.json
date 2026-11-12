@@ -1,0 +1,22 @@
+{
+  "name": "kbros-skills",
+  "owner": {
+    "name": "K Bros Web Design",
+    "url": "https://kbroswebdesign.com"
+  },
+  "metadata": {
+    "description": "Agent Skills for Claude from K Bros Web Design",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "sanzo-wada-palettes",
+      "description": "Pick, preview, and apply color palettes from Sanzo Wada's A Dictionary of Color Combinations to sites, Tailwind/shadcn themes, designs, and outfits",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/sanzo-wada-palettes"
+      ]
+    }
+  ]
+}
