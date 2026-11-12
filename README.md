@@ -1,4 +1,4 @@
-[Agent Skills](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) for Claude, built while designing websites at [K Bros Web Design](https://kbroswebdesign.com).
+[Agent Skills](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) for Claude.
 
 | Skill | What it does |
 | --- | --- |
@@ -40,7 +40,7 @@ It also handles plain-CSS sites (vanilla JS switcher), print and design work (he
 
 ```
 /plugin marketplace add khanmo97/claude-skills
-/plugin install sanzo-wada-palettes@kbros-skills
+/plugin install sanzo-wada-palettes@khanmo97-skills
 ```
 
 Or copy `skills/sanzo-wada-palettes/` into `~/.claude/skills/` (all projects) or `.claude/skills/` (one project).

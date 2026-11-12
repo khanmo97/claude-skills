@@ -1,11 +1,11 @@
 {
-  "name": "kbros-skills",
+  "name": "khanmo97-skills",
   "owner": {
-    "name": "K Bros Web Design",
-    "url": "https://kbroswebdesign.com"
+    "name": "khanmo97",
+    "url": "https://github.com/khanmo97"
   },
   "metadata": {
-    "description": "Agent Skills for Claude from K Bros Web Design",
+    "description": "Agent Skills for Claude",
     "version": "1.0.0"
   },
   "plugins": [
